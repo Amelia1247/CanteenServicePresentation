@@ -1,0 +1,108 @@
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\appsettings.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.staticwebassets.runtime.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.exe
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.deps.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.runtimeconfig.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.pdb
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Contracts.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\DTO.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\HttpClients.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\DTO.pdb
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\HttpClients.pdb
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.csproj.AssemblyReference.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.AssemblyInfoInputs.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.AssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.RazorAssemblyInfo.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.RazorAssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApplication.props
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApplication.props
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApplication.props
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Admin\CreateMenu.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Guest\AllMenus.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Login\CreateAccount.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Login\Login.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\UIElements\Modal.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\bundle\BlazorApplication.styles.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApplication.bundle.scp.css
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.csproj.CopyComplete
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\refint\BlazorApplication.dll
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.pdb
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.genruntimeconfig.cache
+C:\Users\Bruger\RiderProjects\SEP3_VIA-master (2)\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\ref\BlazorApplication.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\appsettings.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.staticwebassets.runtime.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.exe
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.deps.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.runtimeconfig.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\BlazorApplication.pdb
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Contracts.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\DTO.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\HttpClients.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\Contracts.pdb
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\DTO.pdb
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\bin\Debug\net7.0\HttpClients.pdb
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.csproj.AssemblyReference.cache
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.AssemblyInfoInputs.cache
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.AssemblyInfo.cs
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.csproj.CoreCompileInputs.cache
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.RazorAssemblyInfo.cache
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.RazorAssemblyInfo.cs
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApplication.props
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApplication.props
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApplication.props
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Admin\CreateMenu.razor.rz.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Guest\AllMenus.razor.rz.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Login\CreateAccount.razor.rz.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\Login\Login.razor.rz.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Pages\UIElements\Modal.razor.rz.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\bundle\BlazorApplication.styles.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApplication.bundle.scp.css
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.csproj.CopyComplete
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\refint\BlazorApplication.dll
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.pdb
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\BlazorApplication.genruntimeconfig.cache
+C:\Users\45914\OneDrive\Desktop\SEP3_VIA-Group8\SEP3_VIA-master\CanteenServicePresentation\BlazorApplication\obj\Debug\net7.0\ref\BlazorApplication.dll

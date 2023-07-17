@@ -1,0 +1,353 @@
+/* _content/BlazorApplication/Pages/Admin/CreateMenu.razor.rz.scp.css */
+body[b-sczwl3zzmx]{
+    margin-top:20px;
+    background: #f6f9fc;
+}
+.account-block[b-sczwl3zzmx] {
+    padding: 0;
+    background-image: url(https://bootdey.com/img/Content/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+}
+.account-block .overlay[b-sczwl3zzmx] {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.account-block .account-testimonial[b-sczwl3zzmx] {
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0 1.75rem;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+}
+
+.text-theme[b-sczwl3zzmx] {
+    color: #5369f8 !important;
+}
+
+.btn-theme[b-sczwl3zzmx] {
+    background-color: #5369f8;
+    border-color: #5369f8;
+    color: #fff;
+}
+
+.errorPrompt[b-sczwl3zzmx] {
+    margin-top: 20px;
+    color: red;
+}
+/* _content/BlazorApplication/Pages/Guest/AllMenus.razor.rz.scp.css */
+body[b-8xzx83rbtm]{margin-top:20px;}
+.bg-light-primary[b-8xzx83rbtm] {
+    background-color: #f9fbff!important;
+}
+.pb-6[b-8xzx83rbtm], .py-6[b-8xzx83rbtm] {
+    padding-bottom: 3.75rem!important;
+}
+.pt-6[b-8xzx83rbtm], .py-6[b-8xzx83rbtm] {
+    padding-top: 3.75rem!important;
+}
+.hover-scale[b-8xzx83rbtm], .hover-scale:hover[b-8xzx83rbtm] {
+    transition: transform .2s ease-in;
+}
+.card[b-8xzx83rbtm] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .4rem;
+    box-shadow: 0 20px 27px 0 rgb(0 0 0 / 5%);
+}
+.card-body[b-8xzx83rbtm] {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+.body[b-8xzx83rbtm]{
+    background: rgba(113, 108, 108, 0.02);
+    color: white;
+}
+.btn-theme[b-8xzx83rbtm] {
+    background-color: #5369f8;
+    border-color: #5369f8;
+    color: #fff;
+}
+#text[b-8xzx83rbtm] {
+    resize: none;
+    margin-botton:10px;
+}
+/* _content/BlazorApplication/Pages/Login/CreateAccount.razor.rz.scp.css */
+body[b-1vwaei8fjf]{
+    margin-top:20px;
+    background: #f6f9fc;
+}
+.account-block[b-1vwaei8fjf] {
+    padding: 0;
+    background-image: url(https://bootdey.com/img/Content/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+}
+.account-block .overlay[b-1vwaei8fjf] {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.account-block .account-testimonial[b-1vwaei8fjf] {
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0 1.75rem;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+}
+
+.text-theme[b-1vwaei8fjf] {
+    color: #5369f8 !important;
+}
+
+.btn-theme[b-1vwaei8fjf] {
+    background-color: #5369f8;
+    border-color: #5369f8;
+    color: #fff;
+}
+
+.errorPrompt[b-1vwaei8fjf] {
+    margin-top: 20px;
+    color: red;
+}
+/* _content/BlazorApplication/Pages/Login/Login.razor.rz.scp.css */
+body[b-zc0o75qzce]{
+    margin-top:20px;
+    background: #f6f9fc;
+}
+.account-block[b-zc0o75qzce] {
+    padding: 0;
+    background-image: url(https://bootdey.com/img/Content/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+}
+.account-block .overlay[b-zc0o75qzce] {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.account-block .account-testimonial[b-zc0o75qzce] {
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0 1.75rem;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+}
+
+.text-theme[b-zc0o75qzce] {
+    color: #5369f8 !important;
+}
+
+.btn-theme[b-zc0o75qzce] {
+    background-color: #5369f8;
+    border-color: #5369f8;
+    color: #fff;
+}
+
+.errorPrompt[b-zc0o75qzce] {
+    margin-top: 20px;
+    color: red;
+}
+/* _content/BlazorApplication/Pages/UIElements/Modal.razor.rz.scp.css */
+.modal-background[b-ac8f0qh0d5] { /* This style class makes the background darker, and un-clickable */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.47); /* Black w/ opacity */
+    display:block;
+}
+
+/* Modal Content/Box */
+.modal-box[b-ac8f0qh0d5] {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #000000;
+    /*display:inline-block;*/
+    width: 30%; /* Could be more or less, depending on screen size */
+    min-width: 300px;
+    border-radius: 25px;
+    box-shadow: 0 5px 30px 15px #3f3f3f;
+}
+
+/* _content/BlazorApplication/Shared/MainLayout.razor.rz.scp.css */
+.page[b-yq70x9dt5e] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-yq70x9dt5e] {
+    flex: 1;
+}
+
+.sidebar[b-yq70x9dt5e] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-yq70x9dt5e] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-yq70x9dt5e]  a, .top-row .btn-link[b-yq70x9dt5e] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-yq70x9dt5e] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-yq70x9dt5e] {
+        display: none;
+    }
+
+    .top-row.auth[b-yq70x9dt5e] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-yq70x9dt5e], .top-row .btn-link[b-yq70x9dt5e] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-yq70x9dt5e] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-yq70x9dt5e] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-yq70x9dt5e] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-yq70x9dt5e], article[b-yq70x9dt5e] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* _content/BlazorApplication/Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-pahgify441] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-pahgify441] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-pahgify441] {
+    font-size: 1.1rem;
+}
+
+.oi[b-pahgify441] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-pahgify441] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-pahgify441] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-pahgify441] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-pahgify441]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-pahgify441]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-pahgify441]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-pahgify441] {
+        display: none;
+    }
+
+    .collapse[b-pahgify441] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

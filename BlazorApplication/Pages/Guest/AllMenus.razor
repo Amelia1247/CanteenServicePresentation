@@ -1,0 +1,126 @@
+﻿@page "/AllMenus"
+@inject NavigationManager NavigationManager
+@inject IMenuService MenuService;        
+@inject IReservationService ReservationService;    
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject IAuthService AuthService;
+
+@using DTO
+@using Contracts
+@using System.Security.Claims 
+@using UIElements
+
+@if (_allMenus == null) {
+    <p>
+        <em>Hang tight. Loading latest menus for you...</em>
+    </p>
+}
+else {
+    <AuthorizeView Policy="Admin">
+        <Authorized>
+            <button class="btn-outline-primary" @onclick="OpenCreateMenu"> Create Menu</button>
+        </Authorized>
+    </AuthorizeView>
+
+    if (!_allMenus.Any()) {
+        <p>
+            <em> No menus available for now...</em>
+        </p>
+    }
+    else {
+        @foreach (MenuDTO menu in _allMenus) {
+            <div class="container">
+                <div class="row g-3 mt-5 mb-5">
+                    <div class="col-md-9">
+                        <div class="card body">
+                            <div class="card-body">
+                                <span class="text-danger fw-bold fs-6"></span>
+                                <h4 class="card-title text-dark mt-2">@menu.Name</h4>
+                                <p class="card-text text-dark">@menu.Description</p>
+                                <hr/>
+                                @if (menu.Ingredients != null && menu.Ingredients.Any()) {
+                                    <p class="card-text text-dark">Ingredients : @string.Join(",", menu.Ingredients)</p>
+                                }
+                                <div class="mt-4 about d-flex text-dark justify-content-between align-items-center">
+                                    <span>
+                                        <small> @menu.Price kr</small>
+                                    </span>
+                                    <AuthorizeView Policy="Guest">
+                                        <Authorized>
+                                            <span>
+                                                <input type="number" placeholder="quantity" @onInput="HandleInput"/>
+                                            </span>
+                                            <button class="btn btn-theme" @onclick="() => BookMenu(menu.Id)"> Book Menu</button>
+                                        </Authorized>
+                                    </AuthorizeView>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        }
+    }
+    @if (_showModal) {
+        <Modal>
+            <p> Reservation has been created successfully and your mobile number has been added as Pickup ID</p>
+            <div>
+                <button class="btn btn-theme" @onclick="CloseModal">Close</button>
+            </div>
+        </Modal>
+    }
+@code {
+    //Code written in C# into Blazor component using Rider and .NET (Tier1). 
+    private int _quantity = 1;
+    private List<MenuDTO>? _allMenus;
+    private bool _showModal = false;
+
+    protected override async Task OnInitializedAsync() {
+        _allMenus = await MenuService.GetAllMenusAsync();
+    }
+
+    private void OpenCreateMenu() {
+        NavigationManager.NavigateTo("/CreateMenu");
+    }
+//Method to create the reservation
+    private async Task BookMenu(int menuId) {
+        try {
+            ClaimsPrincipal principal = await AuthService.GetAuthAsync();
+            AuthenticationState state = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+            string username =state.User.Claims.FirstOrDefault(claim => claim.Type.Equals("username"))!.Value.ToString();
+
+
+            if (principal.Identity!.IsAuthenticated) {
+                await
+                    ReservationService.CreateReservationAsync(new CreateReservationDTO() {
+                        Quantity = _quantity,
+                        MenuId = menuId,
+                        ReservedBy = username
+                    });
+                _showModal = true;
+            }
+        }
+        catch (Exception e) {
+            Console.WriteLine(e);
+            throw;
+        }
+    }
+
+    private void HandleInput(ChangeEventArgs e)
+    {
+        if (e.Value == null) {
+            _quantity = 1;
+        }
+        else {
+            _quantity = int.Parse(e.Value.ToString()!);
+        }
+    }
+
+    private void CloseModal() {
+        _showModal = false;
+    }
+
+
+}}

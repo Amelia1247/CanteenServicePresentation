@@ -1,0 +1,182 @@
+﻿@page "/AllReservation"
+@using DTO
+@using Contracts
+@inject IReservationService ReservationService
+@inject NavigationManager NavigationManager
+<h3>AllReservation</h3>
+
+@if (_reservationsToShows == null) {
+    <p>
+        <em>Hang tight. Loading latest menus for you...</em>
+    </p>
+}
+else
+{
+    <AuthorizeView Policy="Admin">
+        <Authorized>
+            <button class="btn-outline-primary" @onclick="OpenCreateLogin"> Create Menu</button>
+        </Authorized>
+    </AuthorizeView>
+
+    if (!_reservationsToShows.Any())
+    {
+        <p>
+            <em> No Reservation available for now...</em>
+        </p>
+    }
+    else
+    {
+        <div class="filterbar">
+            <div class="filterscontainer">
+                <label class="funnel" @onclick="OpenCloseFilters"> Filter :</label>
+                @if (doShowFilters)
+                {
+                    <div class="filter">
+                            <div>
+                                <label>Reservation ID:</label>
+                            </div>
+                            <div>
+                                <input type="text" class="owneridfield" @bind="reservationId" placeholder="username" min="0"/>
+                                <button onclick="@Filter"> Search</button>
+                            </div>
+                        </div>
+
+
+                    <div class="filter">
+                            <div>
+                                <label style="text-align: center">User Name</label>
+                            </div>
+                            <div>
+                                <input type="text" @bind="username" placeholder="username"/>
+                                <button onclick="@Filter"> Search</button>
+                            </div>
+                        </div>
+                        
+                }
+            </div>
+        </div>
+
+@if (_reservationsToShows == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else if (!_reservationsToShows!.Any())
+{
+    <p>
+        <em>No Reservations matching your search criteria</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Reservation Id </th>
+            <th>ReservedBy</th>
+            <th>Menu</th>
+            <th>Quantity</th>
+            <th>IsPicked</th>
+        </tr>
+        </thead>
+        <tbody>
+       
+            @foreach (ReservationDTO reservationDto in  _reservationsToShows)
+            {
+                <tr>
+                    <td> @reservationDto.Id</td>
+                    <td> @reservationDto.ReservedBy.Username</td>
+                    <td> @reservationDto.Menu.Name</td>
+                    <td> @reservationDto.Quantity</td>
+                    <td> @reservationDto.IsDelivered</td>
+                </tr>
+            }
+       
+        </tbody>
+    </table>
+    <br/>
+    <br/>
+}
+    }
+}
+@if (!string.IsNullOrEmpty(errorLabel))
+{
+    <label style="color: red">@errorLabel</label>
+}
+
+
+
+@code {
+     private List<ReservationDTO>? _reservationsToShows, _allReservationDtos
+    ;
+    private string errorLabel;
+
+    // Filters 
+   // private bool? authorNameFilter, bookTitleFilter;
+    private bool doShowFilters;
+    private String? reservationId;
+    private String? username;
+    protected override async Task OnInitializedAsync() {
+        try {
+            _allReservationDtos =await ReservationService.GetAllReservations();
+            _reservationsToShows= _allReservationDtos;
+        }
+        catch (Exception e) {
+            errorLabel = e.Message;
+            throw;
+        }
+    }
+    private void OpenCloseFilters() {
+        doShowFilters = !doShowFilters;
+        if (!doShowFilters) {
+            reservationId = null;
+            username= null;
+            _reservationsToShows = _allReservationDtos;
+        }
+    }
+
+    private async Task Filter() {
+        if (reservationId == null &&  username == null) {
+            return;
+        }
+        if (reservationId == null) {
+            filterByReservationId();
+            return;
+        }
+        if ( username == null) {
+            filterByUsername();
+            return;
+        }
+        filterByReservationId();
+        filterByUsername();
+    }
+
+    private void  filterByReservationId() {
+        _reservationsToShows = _reservationsToShows!.Where(ReservationDTO => ReservationDTO.Id.Equals(reservationId!)).ToList();
+    }
+
+    private void  filterByUsername() {
+        _reservationsToShows = _reservationsToShows!.Where(ReservationDTO => ReservationDTO.ReservedBy.Username .Contains(username!)).ToList();
+    }
+    
+    private void OpenCreateLogin() {
+        NavigationManager.NavigateTo("/Login");
+    }
+    /*private void filterByUsername() {
+          List<ReservationDTO> reservationsUnMatched = new List<ReservationDTO>();
+          foreach (ReservationDTO reservationDTO in _reservationsToShows!) {
+              foreach (var book in author.Books) {
+                  if (!book.Title.Contains(bookTitle)) {
+                      booksUnMatched.Add(book);
+                  }
+              }
+          }
+          foreach (Author author in _authorsToShow!) {
+              foreach (Book book in booksUnMatched) {
+                  author.Books.Remove(book);
+              }
+          }*/
+// @foreach (var ReservationDTO in _reservationsToShows!)
+    //{ }
+}    
